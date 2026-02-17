@@ -146,3 +146,5 @@ fi
 
 echo ""
 echo "Project setup complete!"
+echo "project created at: $BASE_DIR"
+echo "to run: cd $PROJECT_DIR && python3 attandance_checker.py"
