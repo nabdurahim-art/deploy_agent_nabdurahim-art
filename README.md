@@ -69,3 +69,7 @@ Before finishing setup , the script verifies
 Whether `python3` is installed (python3 --version) .
 A confirmation or warning message is printed accordingly .
 
+
+5. A link to a run-through video
+
+https://youtu.be/6dRJiaQtZq4
